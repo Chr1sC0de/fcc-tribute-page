@@ -1,0 +1,22 @@
+.quote-container {
+    display:         flex;
+    flex-direction:  column;
+    align-items:     center;
+    justify-content: center;
+    font-size:       3vw;
+    height:          100vh;
+    width:           100vw;
+}
+
+.quote {
+    width:      60vw;
+    font-style: italic;
+    margin:     0.5%;
+}
+
+.from {
+    width:      60vw;
+    text-align: right;
+    font-style: italic;
+    margin:     0.5%;
+}
